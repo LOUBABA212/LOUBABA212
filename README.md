@@ -3,4 +3,4 @@
 🎓 Aspiring Data scientist | ML Enthusiast
 💡 Eager to make an impact in the scientific field as an engineer.
 📫 Reach me at loubaba.elmalki@gmail.com or loubaba.malkilhlaibi@etu.uae.ac.ma
-LinkedIn : https://www.linkedin.com/in/loubaba-malki-l-hlaibi-32b6a7254/
+LinkedIn : www.linkedin.com/in/loubaba-malki-lhlaibi
