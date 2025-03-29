@@ -1,17 +1,16 @@
-🚀 Loubaba Malki L'Hlaibi
-📊 AI & Big Data Engineering Student @ ENSA Tetouan | Aspiring AI Researcher
-🤖 ML • Deep Learning • Computer Vision • NLP
+👋 Hi, I’m @LOUBABA212 aka Loubaba Malki L'Hlaibi
 
-Passionate about turning data into intelligent solutions. Constantly exploring cutting-edge AI research, optimizing models, and building impactful projects.
+💻 Second-year Big Data and AI Engineering Student at the National School of Applied Sciences in Tetouan, Morocco
 
-🔹 Currently:
+🎓 Aspiring Data Scientist | ML & Deep Learning Enthusiast | AI Researcher
 
-Studying Big Data & AI Engineering
+🔍 Passionate about solving complex problems with machine learning, computer vision, and natural language processing
 
-Experimenting with Transformers, LLMs, and Generative AI
 
-Contributing to open-source AI projects
+💡 Eager to contribute to innovative research and make a lasting impact in the AI/ML space
 
-🔹 Let’s Connect & Collaborate!
-📧 Email: malki.loubaba@gmail.com | loubaba.malkilhlaibi@etu.uae.ac.ma
-💼 LinkedIn: linkedin.com/in/loubaba-malki-lhlaibi
+📬 Reach me at:
+malki.loubaba@gmail.com | loubaba.malkilhlaibi@etu.uae.ac.ma
+
+🔗 LinkedIn: www.linkedin.com/in/loubaba-malki-lhlaibi
+
